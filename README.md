@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/sharonelsamathew/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sharon.mathew@tandem.org.nz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sharonelsa.nz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
   <img src="https://img.shields.io/badge/Auckland%20%F0%9F%87%B3%F0%9F%87%BF-blue?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=sharonashik&label=Profile%20views&color=2EAD33&style=for-the-badge" />
@@ -140,96 +140,28 @@ A few things I actually believe (not just things I say in interviews):
 
 ---
 
-## 🏢 Career Log
+| 📅 Period | 💼 Role | 🏢 Company | 📍 Location |
+|:----------|:--------|:-----------|:------------|
+| **Sep 2025 → Present** | Intermediate QA Engineer | **Tandem Ministries** | Auckland 🇳🇿 · Hybrid |
+| May 2025 → Sep 2025 | QA & Tech Support (Intern) | NZ Cheap Cars | Auckland 🇳🇿 · Hybrid |
+| Nov 2023 → Sep 2025 | Casual QA Engineer<br/><sub>*while completing M.Eng at AUT*</sub> | Digital Marketing Firm | Remote 🇳🇿 |
+| Mar 2023 → Nov 2023 | QA Engineer | Cyber Sapient | Remote 🇮🇳 |
+| Apr 2022 → Mar 2023 | QA Engineer | Innovation Incubator Advisory | Trivandrum 🇮🇳 |
+| Jan 2021 → Mar 2022 | QA Engineer | Agdhi | Bangalore 🇮🇳 |
+| Oct 2019 → Dec 2019 | Software Testing Intern | SMEC Automation | Ernakulam 🇮🇳 |
 
-```bash
-$ git log career.history --oneline --graph --decorate
-```
+> 🌟 **At Tandem:** Owning QA across 4 customer-facing products · Built Playwright + TypeScript automation from scratch · Integrating AI-assisted testing (Claude + Cursor) into test design and review · Mentoring junior testers
 
-```bash
-* a7f3c2d (HEAD -> main)  feat: Intermediate QA Engineer @ Tandem Ministries
-|                         └─ 📅 Sep 2025 → Present · 📍 Auckland 🇳🇿 · Hybrid
-|                         └─ Owning QA across 4 customer-facing products
-|                         └─ Built Playwright + TypeScript automation from scratch
-|                         └─ Mentoring junior testers · embedded in agile delivery
-|
-* b9e4f1a                 feat: QA & Tech Support (Intern) @ NZ Cheap Cars
-|                         └─ 📅 May 2025 → Sep 2025 · 📍 Auckland 🇳🇿 · Hybrid
-|                         └─ Manual + automation testing · technical support
-|
-* c1d8e5b                 feat: Casual QA Engineer @ Digital Marketing Firm
-|                         └─ 📅 Nov 2023 → Sep 2025 · 📍 Remote 🇳🇿
-|                         └─ Web QA · cross-browser · client-facing test reports
-|
-* d2a3c4e                 feat: QA Engineer @ Cyber Sapient
-|                         └─ 📅 Mar 2023 → Nov 2023 · 📍 Remote 🇮🇳
-|                         └─ Full-cycle QA · sole tester · agile sprints
-|
-* e5f6a7b                 feat: QA Engineer @ Innovation Incubator Advisory
-|                         └─ 📅 Apr 2022 → Mar 2023 · 📍 Trivandrum 🇮🇳 · Remote
-|                         └─ Built QA function from zero · Selenium automation
-|
-* f8a9b0c                 feat: QA Engineer @ Agdhi
-|                         └─ 📅 Jan 2021 → Mar 2022 · 📍 Bangalore 🇮🇳 · Hybrid
-|                         └─ Selenium WebDriver · test strategy · defect lifecycle
-|
-* j1k2l3m (root-commit)   init: Software Testing Intern @ SMEC Automation
-                          └─ 📅 Oct 2019 → Dec 2019 · 📍 Ernakulam 🇮🇳
-                          └─ First exposure to manual testing · STLC fundamentals
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20years-2EAD33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roles-7-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Countries-NZ%20%2B%20India-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA%20Functions%20Built-3%20from%20scratch-purple?style=for-the-badge" />
+</p>
 
-```bash
-$ git log --shortstat --author="Sharon"
-> 7 roles · 4 countries · 6+ years · ~3 QA functions built from scratch
-```
-
----
-
-## 🎓 Education
-
-```bash
-$ cat ~/education.json
-```
-
-```json
-{
-  "degrees": [
-    {
-      "level": "M.Eng",
-      "field": "IT Project Management",
-      "institution": "Auckland University of Technology",
-      "location": "Auckland, NZ 🇳🇿",
-      "year": 2024,
-      "status": "✅ completed"
-    },
-    {
-      "level": "M.Tech",
-      "field": "Applied Electronics",
-      "institution": "Vivekanandha College of Engineering for Women",
-      "location": "Tamil Nadu, India 🇮🇳",
-      "years": "2017 — 2019",
-      "status": "✅ completed"
-    },
-    {
-      "level": "B.E",
-      "field": "Electronics & Communication Engineering",
-      "institution": "Mar Ephraem College of Engineering & Technology",
-      "location": "Tamil Nadu, India 🇮🇳",
-      "years": "2013 — 2017",
-      "status": "✅ completed"
-    }
-  ],
-  "certifications": [
-    {
-      "name": "ISTQB Foundation Level",
-      "status": "📚 syllabus complete · exam scheduled"
-    }
-  ],
-  "always_learning": true
-}
-```
-
----
+<p align="center">
+  <em>7 roles · 🇳🇿 NZ + 🇮🇳 India · 6+ years · Startups → established companies · Sole QA, lead QA, and team contributor · ~3 QA functions built from scratch</em>
+</p>
 
 ## 📬 Let's Talk
 
@@ -242,12 +174,9 @@ I'm always happy to chat about:
 
 <p align="center">
   <a href="mailto:sharonelsa.nz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sharon.mathew%40tandem.org.nz-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sharonelsa.nz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sharonelsamathew/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sharon%20Elsa%20Mathew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <em>Open to QA engineering roles in Auckland.</em>
