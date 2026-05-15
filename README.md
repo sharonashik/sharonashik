@@ -177,5 +177,12 @@ Always happy to talk about:
 🇳🇿 The Auckland tech scene
 🧪 Building a QA function from scratch as the sole QA
 
+## 📊 GitHub Stats
+
+![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharonashik&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonashik&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharonashik&theme=tokyonight)
 📧 sharon.mathew@tandem.org.nz
 💼 LinkedIn
