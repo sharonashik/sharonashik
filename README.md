@@ -1,11 +1,22 @@
-# 👋 Hi, I'm Sharon
+<!-- ====== HERO / TYPING BANNER ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sharon+%F0%9F%91%8B;QA+Engineer+%F0%9F%A7%AA;Playwright+%2B+Selenium+Specialist;Exploring+AI-Assisted+Testing+%F0%9F%A4%96;Building+Quality+From+Day+One" alt="Typing SVG" />
+</p>
 
-**QA Engineer · Playwright + Selenium · Exploring AI-assisted testing**
-📍 Auckland, New Zealand · 🇳🇿
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharonelsamathew/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharon.mathew@tandem.org.nz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Auckland%20%F0%9F%87%B3%F0%9F%87%BF-blue?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sharonashik&label=Profile%20views&color=2EAD33&style=for-the-badge" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharonelsamathew/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sharon.mathew@tandem.org.nz)
-![Location](https://img.shields.io/badge/Auckland-NZ-blue?style=flat)
+---
+
+> 🌱 **Now:** Wrapping up GitHub Actions CI for sauce-demo-tests · Starting the AI Test Case Generator · ISTQB Foundation exam soon
 
 ---
 
@@ -18,13 +29,20 @@ Currently **Intermediate QA at Tandem Ministries** in Auckland, owning quality a
 I treat QA as a design discipline, not a checklist. The interesting work isn't catching bugs at the end — it's preventing them by being early, opinionated, and useful during the build.
 
 **What I'm thinking about right now:**
+
 - 🎭 Modern automation patterns — Playwright fixtures, `storageState`, visual regression
 - 🤖 Where AI tools (Claude, Cursor) actually help QA, and where they just add noise
 - 🏗️ Quality gates that run in CI, not "I'll run the suite locally before merging"
 
 ---
 
-## 🛠️ What I'm Strong In
+## 🛠️ My Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=playwright,selenium,typescript,javascript,nodejs,python,java,postman,git,github,githubactions,jira,vscode,linux,aws&perline=8" />
+  </a>
+</p>
 
 ```yaml
 test_automation:
@@ -48,16 +66,47 @@ learning:        [GitHub Actions CI, k6 performance, AI-driven QA workflows]
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharonashik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonashik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharonashik&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonashik&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
 ## ⭐ Featured Project
 
-### [sauce-demo-tests](https://github.com/sharonashik/sauce-demo-tests) — Playwright + TypeScript Framework
+<p align="center">
+  <a href="https://github.com/sharonashik/sauce-demo-tests">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonashik&repo=sauce-demo-tests&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+### 🧪 SauceDemo Test Framework — Playwright + TypeScript
 
 A real test framework targeting [saucedemo.com](https://www.saucedemo.com). Built to demonstrate, not just claim, modern automation patterns.
 
+<!-- ⬇️ ADD YOUR TESTS-RUNNING GIF HERE ⬇️ -->
+<!--
+<p align="center">
+  <img src="./assets/tests-running.gif" alt="Playwright tests running" width="700" />
+</p>
+-->
+
 **What's in it:**
+
 - ✅ Page Object Model with clean separation of concerns
-- ✅ Custom Playwright fixtures
-- ✅ Authentication state reuse via `storageState`
+- ✅ Custom Playwright fixtures extending the base test runner
+- ✅ Authentication state reuse via `storageState` — faster, more reliable tests
 - ✅ Data-driven testing across multiple user personas
 - ✅ Visual regression with baseline snapshots
 - ✅ Multi-project config (logged-out vs logged-in flows)
@@ -71,9 +120,9 @@ A real test framework targeting [saucedemo.com](https://www.saucedemo.com). Buil
 
 ## 🚧 What I'm Building Now
 
-- **GitHub Actions CI for sauce-demo-tests** — auto-run the suite on every push, block merges on regressions
-- **AI Test Case Generator** *(experimenting)* — CLI tool that turns user stories into structured test cases via the Claude API. Early days.
-- **ISTQB Foundation exam** — syllabus done, sitting it soon
+- ⚙️ **GitHub Actions CI for sauce-demo-tests** — auto-run the suite on every push, block merges on regressions
+- 🤖 **AI Test Case Generator** *(experimenting)* — CLI tool that turns user stories into structured test cases via the Claude API
+- 📚 **ISTQB Foundation exam** — syllabus done, sitting it soon
 
 ---
 
@@ -87,41 +136,123 @@ A few things I actually believe (not just things I say in interviews):
 
 **3. The best defect report is the one a developer wants to read.** Clear repro steps, expected vs actual, environment, screenshots if relevant. No drama, no blame.
 
-**4. Mentoring is how I check my own knowledge.** If I can't explain "why fixtures over `beforeEach`?" in 30 seconds to a junior, I don't actually know it yet.
+**4. Mentoring is how I check my own knowledge.** If I can't explain *"why fixtures over `beforeEach`?"* in 30 seconds to a junior, I don't actually know it yet.
 
 ---
 
-## 💼 Where I've Worked
+## 🏢 Career Log
 
-| Role | Company | Period |
-|------|---------|--------|
-| Intermediate QA Engineer | **Tandem Ministries** · Auckland 🇳🇿 | Sep 2025 → Present |
-| QA & Tech Support (Intern) | NZ Cheap Cars · Auckland 🇳🇿 | May 2025 → Sep 2025 |
-| Casual QA Engineer | Digital Marketing Firm · Remote 🇳🇿 | Nov 2023 → Sep 2025 |
-| QA Engineer | Cyber Sapient · Remote 🇮🇳 | Mar 2023 → Nov 2023 |
-| QA Engineer | Innovation Incubator Advisory · Trivandrum 🇮🇳 | Apr 2022 → Mar 2023 |
-| QA Engineer | Agdhi · Bangalore 🇮🇳 | Jan 2021 → Mar 2022 |
-| Software Testing Intern | SMEC Automation · Ernakulam 🇮🇳 | Oct 2019 → Dec 2019 |
+```bash
+$ git log career.history --oneline --graph --decorate
+```
+
+```bash
+* a7f3c2d (HEAD -> main)  feat: Intermediate QA Engineer @ Tandem Ministries
+|                         └─ 📅 Sep 2025 → Present · 📍 Auckland 🇳🇿 · Hybrid
+|                         └─ Owning QA across 4 customer-facing products
+|                         └─ Built Playwright + TypeScript automation from scratch
+|                         └─ Mentoring junior testers · embedded in agile delivery
+|
+* b9e4f1a                 feat: QA & Tech Support (Intern) @ NZ Cheap Cars
+|                         └─ 📅 May 2025 → Sep 2025 · 📍 Auckland 🇳🇿 · Hybrid
+|                         └─ Manual + automation testing · technical support
+|
+* c1d8e5b                 feat: Casual QA Engineer @ Digital Marketing Firm
+|                         └─ 📅 Nov 2023 → Sep 2025 · 📍 Remote 🇳🇿
+|                         └─ Web QA · cross-browser · client-facing test reports
+|
+* d2a3c4e                 feat: QA Engineer @ Cyber Sapient
+|                         └─ 📅 Mar 2023 → Nov 2023 · 📍 Remote 🇮🇳
+|                         └─ Full-cycle QA · sole tester · agile sprints
+|
+* e5f6a7b                 feat: QA Engineer @ Innovation Incubator Advisory
+|                         └─ 📅 Apr 2022 → Mar 2023 · 📍 Trivandrum 🇮🇳 · Remote
+|                         └─ Built QA function from zero · Selenium automation
+|
+* f8a9b0c                 feat: QA Engineer @ Agdhi
+|                         └─ 📅 Jan 2021 → Mar 2022 · 📍 Bangalore 🇮🇳 · Hybrid
+|                         └─ Selenium WebDriver · test strategy · defect lifecycle
+|
+* j1k2l3m (root-commit)   init: Software Testing Intern @ SMEC Automation
+                          └─ 📅 Oct 2019 → Dec 2019 · 📍 Ernakulam 🇮🇳
+                          └─ First exposure to manual testing · STLC fundamentals
+```
+
+```bash
+$ git log --shortstat --author="Sharon"
+> 7 roles · 4 countries · 6+ years · ~3 QA functions built from scratch
+```
 
 ---
 
 ## 🎓 Education
 
-- **M.Eng., IT Project Management** — Auckland University of Technology · 2024 🇳🇿
-- **M.Tech., Applied Electronics** — Vivekanandha College of Engineering · 2017–2019 🇮🇳
-- **B.E., Electronics & Communication Engineering** — Mar Ephraem College of Engineering & Technology · 2013–2017 🇮🇳
+```bash
+$ cat ~/education.json
+```
+
+```json
+{
+  "degrees": [
+    {
+      "level": "M.Eng",
+      "field": "IT Project Management",
+      "institution": "Auckland University of Technology",
+      "location": "Auckland, NZ 🇳🇿",
+      "year": 2024,
+      "status": "✅ completed"
+    },
+    {
+      "level": "M.Tech",
+      "field": "Applied Electronics",
+      "institution": "Vivekanandha College of Engineering for Women",
+      "location": "Tamil Nadu, India 🇮🇳",
+      "years": "2017 — 2019",
+      "status": "✅ completed"
+    },
+    {
+      "level": "B.E",
+      "field": "Electronics & Communication Engineering",
+      "institution": "Mar Ephraem College of Engineering & Technology",
+      "location": "Tamil Nadu, India 🇮🇳",
+      "years": "2013 — 2017",
+      "status": "✅ completed"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "ISTQB Foundation Level",
+      "status": "📚 syllabus complete · exam scheduled"
+    }
+  ],
+  "always_learning": true
+}
+```
 
 ---
 
 ## 📬 Let's Talk
 
 I'm always happy to chat about:
+
 - 🎭 Playwright vs Selenium trade-offs on real projects
 - 🤖 Where AI genuinely helps QA (and where it just makes noise)
 - 🧪 Building a QA function from scratch as the sole tester
 - 🇳🇿 The Auckland tech scene
 
-**📧** sharonelsa.nz@gmail.com
-**💼** [LinkedIn](https://www.linkedin.com/in/sharonelsamathew/)
+<p align="center">
+  <a href="mailto:sharonelsa.nz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sharon.mathew%40tandem.org.nz-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sharonelsamathew/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sharon%20Elsa%20Mathew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-*Open to QA engineering roles in Auckland.*
+<p align="center">
+  <em>Open to QA engineering roles in Auckland.</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=80&section=footer" />
+</p>
