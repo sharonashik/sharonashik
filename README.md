@@ -142,9 +142,9 @@ A few things I actually believe (not just things I say in interviews):
 
 | 📅 Period | 💼 Role | 🏢 Company | 📍 Location |
 |:----------|:--------|:-----------|:------------|
-| **Sep 2025 → Present** | Intermediate QA Engineer | **Tandem Ministries** | Auckland 🇳🇿 · NZ |
-| May 2025 → Sep 2025 | QA & Tech Support (Intern) | NZ Cheap Cars | Auckland 🇳🇿 · NZ |
-| Nov 2023 → Sep 2025 | Casual QA Engineer<br/><sub>*while completing M.Eng at AUT*</sub> | Digital Marketing Firm | NZ 🇳🇿 & India 🇮🇳|
+| **Sep 2025 → Present** | Intermediate QA Engineer | **Tandem Ministries** | Auckland, NZ 🇳🇿 |
+| May 2025 → Sep 2025 | QA & Tech Support (Intern) | NZ Cheap Cars | Auckland, NZ 🇳🇿 |
+| Nov 2023 → Sep 2025 | Casual QA Engineer<br/><sub>*while completing M.Eng at AUT*</sub> | Digital Marketing Firm | NZ 🇳🇿 &     India 🇮🇳|
 | Mar 2023 → Nov 2023 | QA Engineer | Cyber Sapient | India 🇮🇳 |
 | Apr 2022 → Mar 2023 | QA Engineer | Innovation Incubator Advisory | India 🇮🇳 |
 | Jan 2021 → Mar 2022 | QA Engineer | Agdhi | India 🇮🇳 |
