@@ -142,13 +142,13 @@ A few things I actually believe (not just things I say in interviews):
 
 | 📅 Period | 💼 Role | 🏢 Company | 📍 Location |
 |:----------|:--------|:-----------|:------------|
-| **Sep 2025 → Present** | Intermediate QA Engineer | **Tandem Ministries** | Auckland 🇳🇿 · Hybrid |
-| May 2025 → Sep 2025 | QA & Tech Support (Intern) | NZ Cheap Cars | Auckland 🇳🇿 · Hybrid |
-| Nov 2023 → Sep 2025 | Casual QA Engineer<br/><sub>*while completing M.Eng at AUT*</sub> | Digital Marketing Firm | Remote 🇳🇿 |
-| Mar 2023 → Nov 2023 | QA Engineer | Cyber Sapient | Remote 🇮🇳 |
-| Apr 2022 → Mar 2023 | QA Engineer | Innovation Incubator Advisory | Trivandrum 🇮🇳 |
-| Jan 2021 → Mar 2022 | QA Engineer | Agdhi | Bangalore 🇮🇳 |
-| Oct 2019 → Dec 2019 | Software Testing Intern | SMEC Automation | Ernakulam 🇮🇳 |
+| **Sep 2025 → Present** | Intermediate QA Engineer | **Tandem Ministries** | Auckland 🇳🇿 · NZ |
+| May 2025 → Sep 2025 | QA & Tech Support (Intern) | NZ Cheap Cars | Auckland 🇳🇿 · NZ |
+| Nov 2023 → Sep 2025 | Casual QA Engineer<br/><sub>*while completing M.Eng at AUT*</sub> | Digital Marketing Firm | NZ 🇳🇿 & India 🇮🇳|
+| Mar 2023 → Nov 2023 | QA Engineer | Cyber Sapient | India 🇮🇳 |
+| Apr 2022 → Mar 2023 | QA Engineer | Innovation Incubator Advisory | India 🇮🇳 |
+| Jan 2021 → Mar 2022 | QA Engineer | Agdhi | India 🇮🇳 |
+| Oct 2019 → Dec 2019 | Software Testing Intern | SMEC Automation | India 🇮🇳 |
 
 > 🌟 **At Tandem:** Owning QA across 4 customer-facing products · Built Playwright + TypeScript automation from scratch · Integrating AI-assisted testing (Claude + Cursor) into test design and review · Mentoring junior testers
 
