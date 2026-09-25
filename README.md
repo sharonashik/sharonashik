@@ -1,187 +1,146 @@
-<!-- ====== HERO / TYPING BANNER ====== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sharon+%F0%9F%91%8B;QA+Engineer+%F0%9F%A7%AA;Playwright+%2B+Selenium+Specialist;Exploring+AI-Assisted+Testing+%F0%9F%A4%96;Building+Quality+From+Day+One" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharonelsamathew/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sharonelsa.nz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a>
-  <img src="https://img.shields.io/badge/Auckland%20%F0%9F%87%B3%F0%9F%87%BF-blue?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=sharonashik&label=Profile%20views&color=2EAD33&style=for-the-badge" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EAD33&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sharon+%F0%9F%91%8B;QA+Automation+Engineer+%F0%9F%A7%AA;Playwright+%C2%B7+Selenium+%C2%B7+XCTest;Building+AI-native+QA+workflows+%F0%9F%A4%96;Quality+from+day+one)](https://github.com/sharonashik)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharonelsamathew/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonelsa.nz@gmail.com)
+![Auckland](https://img.shields.io/badge/Auckland%20%F0%9F%87%B3%F0%9F%87%BF-blue?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=sharonashik&label=Profile%20views&color=2EAD33&style=for-the-badge)
 
-> 🌱 **Now:** Wrapping up GitHub Actions CI for sauce-demo-tests · Starting the AI Test Case Generator · ISTQB Foundation exam soon
+</div>
 
----
+> 🌱 **Now:** Researching AI in QA and bringing what works into my day job · Growing my library of Claude Agent Skills · Building a personal AI + QA study wiki
 
 ## About
 
-I'm a QA Engineer with **6+ years of experience** — most of it as the sole QA at startups in New Zealand and India. That means I haven't just executed test plans; I've built test strategy, automation, and process from scratch when there was nothing before me.
+I'm a QA Automation Engineer with **4+ years** of experience across New Zealand and India, much of it as the sole QA at investor-backed startups in fintech, insurance, banking, agritech, healthcare, e-commerce and media. Where there was no test strategy, automation or process, I built it.
 
-Currently **Intermediate QA at Tandem Ministries** in Auckland, owning quality across 4 customer-facing products.
+Today I'm an **Intermediate QA Automation Engineer at Tandem Ministries** (Jesus Film Project) in Auckland, covering web, Android, iOS and AI features across 4 customer-facing products.
 
-I treat QA as a design discipline, not a checklist. The interesting work isn't catching bugs at the end — it's preventing them by being early, opinionated, and useful during the build.
+Outside the day-to-day, I spend a lot of time researching where AI and QA meet, then testing those ideas on real work. If something holds up, it becomes part of how our team tests.
 
-**What I'm thinking about right now:**
+I treat QA as a design discipline, not a checklist. The interesting work isn't catching bugs at the end. It's preventing them by being early, opinionated and useful during the build.
 
-- 🎭 Modern automation patterns — Playwright fixtures, `storageState`, visual regression
-- 🤖 Where AI tools (Claude, Cursor) actually help QA, and where they just add noise
-- 🏗️ Quality gates that run in CI, not "I'll run the suite locally before merging"
+## 🤖 AI-Native QA: What I've Built
 
----
+I don't just use AI tools in testing. I build them into the workflow.
 
-## 🛠️ My Stack
+| | What | How |
+|---|---|---|
+| 🔌 | **Custom MCP servers** | Connect Claude directly to Testmo (test management) and the iOS Simulator (mobile testing) |
+| 🧠 | **Claude Agent Skills for QA** | `test-case-writer` · `bug-report-writer` · `api-test-designer` · `playwright-test-generator` · `regression-checklist-builder` |
+| 💬 | **Slack Feature Bot** | Brings Linear feature data into Slack for the product team. Node.js, Slack Bolt, Linear GraphQL API, deployed on Railway |
+| ⚖️ | **Testing AI features** | AI translation testing and LLM-as-judge evaluation for AI output quality |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=playwright,selenium,typescript,javascript,nodejs,python,java,postman,git,github,githubactions,jira,vscode,linux,aws&perline=8" />
-  </a>
-</p>
+*Most of this lives in private or work repos. Happy to walk through any of it in a chat.*
 
-```yaml
-test_automation:
-  playwright:    [POM, fixtures, storageState, visual regression, multi-project]
-  selenium:      [WebDriver, TestNG, page factories, parallel grid execution]
-  languages:     [TypeScript, JavaScript, Java, Python]
-  mobile:        [Appium - basics]
+## 🔬 From Research to Practice
 
-test_design:
-  techniques:    [equivalence partitioning, BVA, decision tables, state transition]
-  certification: ISTQB Foundation (syllabus complete)
-  process:       [Agile/Scrum, risk-based prioritization, exploratory testing]
+Everything in the table above started as research. My loop looks like this:
 
-api_and_data:
-  api:           [REST, Postman, auth patterns: OAuth/JWT/API keys]
-  sql:           [JOINs, GROUP BY, aggregates, subqueries]
+1. **Study.** I read papers, docs and courses on AI in testing (including Anthropic Academy's MCP and Agent Skills courses) and follow how other QA teams are using LLMs.
+2. **Capture.** Notes go into my own **AI + QA study wiki**, a private, Claude Code maintained knowledge base I read in Obsidian. Raw sources in, synthesised notes out, so ideas build on each other instead of getting lost in bookmarks.
+3. **Experiment.** I try the idea on a small, low-risk slice of real work first: one skill, one MCP tool, one evaluation check.
+4. **Implement.** If it saves time or catches more bugs, it goes into the team workflow. That's how the MCP servers, Agent Skills and LLM-as-judge checks became part of how we test at Tandem.
+5. **Share.** I write up what worked (and what didn't) on LinkedIn and with colleagues.
 
-tools:           [JIRA, Linear, TestMo, Zoho BugTracker, Git, GitHub]
-learning:        [GitHub Actions CI, k6 performance, AI-driven QA workflows]
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharonashik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonashik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharonashik&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonashik&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
+**Current research threads:** evaluating AI features (LLM-as-judge, translation quality) · agentic test workflows · where AI genuinely helps QA and where it just adds noise
 
 ## ⭐ Featured Project
 
-<p align="center">
-  <a href="https://github.com/sharonashik/sauce-demo-tests">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonashik&repo=sauce-demo-tests&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sharonashik&repo=sauce-demo-tests&theme=tokyonight&hide_border=true)](https://github.com/sharonashik/sauce-demo-tests)
 
-### 🧪 SauceDemo Test Framework — Playwright + TypeScript
+### 🧪 SauceDemo Test Framework (Playwright + TypeScript)
 
-A real test framework targeting [saucedemo.com](https://www.saucedemo.com). Built to demonstrate, not just claim, modern automation patterns.
-
-<!-- ⬇️ ADD YOUR TESTS-RUNNING GIF HERE ⬇️ -->
-<!--
-<p align="center">
-  <img src="./assets/tests-running.gif" alt="Playwright tests running" width="700" />
-</p>
--->
-
-**What's in it:**
+A real test framework targeting [saucedemo.com](https://www.saucedemo.com), built to demonstrate modern automation patterns rather than just claim them.
 
 - ✅ Page Object Model with clean separation of concerns
 - ✅ Custom Playwright fixtures extending the base test runner
-- ✅ Authentication state reuse via `storageState` — faster, more reliable tests
+- ✅ Authentication state reuse via `storageState` for faster, more reliable tests
 - ✅ Data-driven testing across multiple user personas
 - ✅ Visual regression with baseline snapshots
 - ✅ Multi-project config (logged-out vs logged-in flows)
 - ✅ TypeScript strict mode throughout
 
-**Stack:** Playwright Test · TypeScript · Node.js
-
 **[→ Browse the code](https://github.com/sharonashik/sauce-demo-tests)**
 
----
+## 🛠️ My Stack
 
-## 🚧 What I'm Building Now
+[![](https://skillicons.dev/icons?i=playwright,selenium,ts,js,nodejs,java,python,swift,postman,git,github,githubactions,jira,vscode,linux&perline=8)](https://skillicons.dev)
 
-- ⚙️ **GitHub Actions CI for sauce-demo-tests** — auto-run the suite on every push, block merges on regressions
-- 🤖 **AI Test Case Generator** *(experimenting)* — CLI tool that turns user stories into structured test cases via the Claude API
-- 📚 **ISTQB Foundation exam** — syllabus done, sitting it soon
+```yaml
+test_automation:
+  playwright:    [POM, fixtures, storageState, visual regression, multi-project]
+  selenium:      [WebDriver, TestNG, page factories, parallel grid execution]
+  mobile:        [XCTest (iOS), Android and iOS regression, Appium basics]
+  languages:     [TypeScript, JavaScript, Java, Python]
 
----
+ai_in_qa:
+  building:      [custom MCP servers, Claude Agent Skills, agentic workflows]
+  evaluating:    [AI feature testing, LLM-as-judge]
+  bots:          [Slack Bolt, Linear GraphQL API, Railway]
+
+test_design:
+  techniques:    [equivalence partitioning, BVA, decision tables, state transition]
+  process:       [Agile/Scrum, risk-based prioritisation, exploratory testing]
+
+api_and_data:
+  api:           [REST, GraphQL, Postman, auth patterns: OAuth/JWT/API keys]
+  sql:           [JOINs, GROUP BY, aggregates, subqueries]
+
+ci_and_tools:    [GitHub Actions, Linear, Testmo, JIRA, Git, GitHub]
+learning:        [k6 performance testing, AI evaluation methods]
+```
 
 ## 🧭 How I Work
 
-A few things I actually believe (not just things I say in interviews):
+**1. Build it, then break it.** I don't feel like I've learned a tool until I've deliberately broken it: race conditions, expired tokens, flaky networks. Happy-path tests teach you almost nothing.
 
-**1. Build it, then break it.** I never feel like I've learned a tool until I've deliberately broken it — race conditions, expired tokens, flaky networks. Happy-path tests teach you almost nothing.
+**2. AI is a sparring partner, not a crutch.** I use Claude heavily, and I build tools on top of it, but for thinking *with*, not *instead of*. It finds gaps faster only when I've done the thinking first.
 
-**2. AI is a sparring partner, not a crutch.** I use Claude and Cursor heavily, but for thinking *with*, not *instead of*. The combo finds gaps faster than either alone — only if I'm doing the thinking first.
+**3. The best defect report is the one a developer wants to read.** Clear repro steps, expected vs actual, environment, screenshots when relevant. No drama, no blame.
 
-**3. The best defect report is the one a developer wants to read.** Clear repro steps, expected vs actual, environment, screenshots if relevant. No drama, no blame.
+**4. Mentoring is how I check my own knowledge.** If I can't explain *"why fixtures over `beforeEach`?"* to a colleague in 30 seconds, I don't really know it yet.
 
-**4. Mentoring is how I check my own knowledge.** If I can't explain *"why fixtures over `beforeEach`?"* in 30 seconds to a junior, I don't actually know it yet.
-
----
+## 💼 Experience
 
 | 📅 Period | 💼 Role | 🏢 Company | 📍 Location |
-|:----------|:--------|:-----------|:------------|
-| **Sep 2025 → Present** | Intermediate QA Engineer | **Tandem Ministries** | Auckland, NZ 🇳🇿 |
+|---|---|---|---|
+| **Sep 2025 → Present** | Intermediate QA Automation Engineer | **Tandem Ministries** | Auckland, NZ 🇳🇿 |
 | May 2025 → Sep 2025 | QA & Tech Support (Intern) | NZ Cheap Cars | Auckland, NZ 🇳🇿 |
-| Nov 2023 → Sep 2025 | Casual QA Engineer<br/><sub>*while completing M.Eng at AUT*</sub> | Digital Marketing Firm | NZ 🇳🇿 &     India 🇮🇳|
+| Nov 2023 → Sep 2025 | Casual QA Engineer *(while completing M.Eng at AUT)* | Digital Marketing Firm | NZ 🇳🇿 & India 🇮🇳 |
 | Mar 2023 → Nov 2023 | QA Engineer | Cyber Sapient | India 🇮🇳 |
 | Apr 2022 → Mar 2023 | QA Engineer | Innovation Incubator Advisory | India 🇮🇳 |
 | Jan 2021 → Mar 2022 | QA Engineer | Agdhi | India 🇮🇳 |
 | Oct 2019 → Dec 2019 | Software Testing Intern | SMEC Automation | India 🇮🇳 |
 
-> 🌟 **At Tandem:** Owning QA across 4 customer-facing products · Built Playwright + TypeScript automation from scratch · Integrating AI-assisted testing (Claude + Cursor) into test design and review · Mentoring junior testers
+> 🌟 **At Tandem:** QA across 4 customer-facing products (web, Android, iOS, AI) · Built Playwright + TypeScript automation from scratch · Built MCP servers, Agent Skills and a Slack bot to speed up the team · Onboarded and mentored new QA team members
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B%20years-2EAD33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Roles-7-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Countries-NZ%20%2B%20India-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QA%20Functions%20Built-3%20from%20scratch-purple?style=for-the-badge" />
-</p>
+![](https://img.shields.io/badge/Experience-4%2B%20years-2EAD33?style=for-the-badge)
+![](https://img.shields.io/badge/Roles-7-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Countries-NZ%20%2B%20India-orange?style=for-the-badge)
+![](https://img.shields.io/badge/QA%20Functions%20Built-3%20from%20scratch-purple?style=for-the-badge)
 
-<p align="center">
-  <em>7 roles · 🇳🇿 NZ + 🇮🇳 India · 6+ years · Startups → established companies · Sole QA, lead QA, and team contributor · ~3 QA functions built from scratch</em>
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sharonashik&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonashik&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ## 📬 Let's Talk
 
-I'm always happy to chat about:
+Always happy to chat about:
 
 - 🎭 Playwright vs Selenium trade-offs on real projects
-- 🤖 Where AI genuinely helps QA (and where it just makes noise)
+- 🤖 MCP servers and Agent Skills for testing teams
+- 🔬 Turning AI research into practical QA workflows
 - 🧪 Building a QA function from scratch as the sole tester
 - 🇳🇿 The Auckland tech scene
 
-<p align="center">
-  <a href="mailto:sharonelsa.nz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sharonelsa.nz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sharonelsamathew/">
+[![Email](https://img.shields.io/badge/Email-sharonelsa.nz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonelsa.nz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharonelsamathew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharonelsamathew/)
 
-<p align="center">
-  <em>Open to QA engineering roles in Auckland.</em>
-</p>
+*Open to QA Automation roles in Auckland.*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=80&section=footer" />
-</p>
+![](https://capsule-render.vercel.app/api?type=waving&color=2EAD33&height=80&section=footer)
