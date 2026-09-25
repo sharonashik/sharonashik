@@ -46,24 +46,6 @@ Everything in the table above started as research. My loop looks like this:
 
 **Current research threads:** evaluating AI features (LLM-as-judge, translation quality) · agentic test workflows · where AI genuinely helps QA and where it just adds noise
 
-## ⭐ Featured Project
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sharonashik&repo=sauce-demo-tests&theme=tokyonight&hide_border=true)](https://github.com/sharonashik/sauce-demo-tests)
-
-### 🧪 SauceDemo Test Framework (Playwright + TypeScript)
-
-A real test framework targeting [saucedemo.com](https://www.saucedemo.com), built to demonstrate modern automation patterns rather than just claim them.
-
-- ✅ Page Object Model with clean separation of concerns
-- ✅ Custom Playwright fixtures extending the base test runner
-- ✅ Authentication state reuse via `storageState` for faster, more reliable tests
-- ✅ Data-driven testing across multiple user personas
-- ✅ Visual regression with baseline snapshots
-- ✅ Multi-project config (logged-out vs logged-in flows)
-- ✅ TypeScript strict mode throughout
-
-**[→ Browse the code](https://github.com/sharonashik/sauce-demo-tests)**
-
 ## 🛠️ My Stack
 
 [![](https://skillicons.dev/icons?i=playwright,selenium,ts,js,nodejs,java,python,swift,postman,git,github,githubactions,jira,vscode,linux&perline=8)](https://skillicons.dev)
